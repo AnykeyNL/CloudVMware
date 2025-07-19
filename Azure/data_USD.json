@@ -1,0 +1,3273 @@
+{
+    "AP East<br>eastasia": [
+        [
+            "AV64",
+            "5 Years",
+            304224.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            17.46
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            11.14261
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            66607.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            15.67
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            211935.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            182535.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            225824.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            89383.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            86832.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            11.04
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            46853.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            48268.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            135495.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            12.1495
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            127161.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            71219.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            75427.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            100701.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            10.03311
+        ]
+    ],
+    "CA Central<br>canadacentral": [
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            41541.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            175511.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            50361.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            253911.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.13311
+        ],
+        [
+            "AV64",
+            "3 Years",
+            152347.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            14.57
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.14
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            105307.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            12.78
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            79668.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            72472.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            106128.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            176880.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            56853.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            9.22
+        ],
+        [
+            "AV36",
+            "1 Year",
+            40121.0
+        ]
+    ],
+    "DE West Central<br>germanywestcentral": [
+        [
+            "AV48",
+            "5 Years",
+            256095.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            114392.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.274786
+        ],
+        [
+            "AV48",
+            "1 Year",
+            72947.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            153658.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            118378.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.76
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            190652.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            274880.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            197295.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            87932.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.617251
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            54390.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.96
+        ],
+        [
+            "AV64",
+            "3 Years",
+            164928.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            45570.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            78399.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.97
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            117888.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            61187.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            62719.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.95311
+        ]
+    ],
+    "US North Central<br>northcentralus": [
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            11.43
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            50073.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            65753.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93639.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            45623.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            8.19311
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            125738.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            200167.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            13.22
+        ],
+        [
+            "AV64",
+            "3 Years",
+            172779.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            287965.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            9.2
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            120100.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            36803.0
+        ]
+    ],
+    "QA Central<br>qatarcentral": [
+        [
+            "AV36P",
+            "5 Years",
+            209855.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            17.34
+        ],
+        [
+            "AV36P",
+            "hourly",
+            12.0637
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            70606.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            15.55
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            99453.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            86221.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            181249.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            125913.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            223682.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            51050.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            59870.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            302082.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            11.05681
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            134209.0
+        ]
+    ],
+    "EU West<br>westeurope": [
+        [
+            "AV36P",
+            "3 Years",
+            114392.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            62706.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            164828.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.76
+        ],
+        [
+            "AV52",
+            "hourly",
+            21.67167
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            190652.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            87932.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            54390.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "1 Year",
+            100652.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "3 Years",
+            269517.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.96
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            45570.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            117788.0
+        ],
+        [
+            "AV52",
+            "3 Years",
+            307739.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            274714.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "hourly",
+            20.217274
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.97
+        ],
+        [
+            "AV52",
+            "1 Year",
+            113393.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            78386.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.95311
+        ]
+    ],
+    "US Gov Virginia<br>usgovvirginia": [
+        [
+            "AV48",
+            "5 Years",
+            335892.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            166255.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            10.45
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            9.44311
+        ],
+        [
+            "AV36",
+            "1 Year",
+            45447.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            64782.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            76542.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            43040.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.995035
+        ],
+        [
+            "AV48",
+            "hourly",
+            15.3375
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            277092.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            79054.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            201535.0
+        ]
+    ],
+    "US East<br>eastus": [
+        [
+            "AV36P",
+            "1 Year",
+            45623.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            50073.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            13.22
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            209914.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            172779.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            120100.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            36803.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            11.43
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            10.93
+        ],
+        [
+            "AV64",
+            "5 Years",
+            287965.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            200167.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            49473.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            8.19311
+        ],
+        [
+            "AV48",
+            "3 Years",
+            161229.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            12.27
+        ],
+        [
+            "AV36P",
+            "hourly",
+            9.2
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93639.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            65753.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            61233.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            125738.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            268714.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            125948.0
+        ]
+    ],
+    "UK South<br>uksouth": [
+        [
+            "AV36P",
+            "5 Years",
+            186168.0
+        ],
+        [
+            "AV52",
+            "3 Years",
+            297963.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            111701.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.67
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.34
+        ],
+        [
+            "AV52 VCF BYOL",
+            "1 Year",
+            97110.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            160413.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            85241.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "hourly",
+            19.587604
+        ],
+        [
+            "AV52",
+            "hourly",
+            21.042
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            53114.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.66311
+        ],
+        [
+            "AV64",
+            "1 Year",
+            76297.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            113373.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "3 Years",
+            259741.0
+        ],
+        [
+            "AV52",
+            "1 Year",
+            109851.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            44294.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            267355.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.55
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            60617.0
+        ]
+    ],
+    "IT North<br>italynorth": [
+        [
+            "AV36P",
+            "3 Years",
+            111488.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            160460.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            185814.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.35
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            67952.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            44119.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            85028.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            141714.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.67311
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            113420.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "1 Year",
+            100652.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            35983.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            60707.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "3 Years",
+            269517.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            8.61111
+        ],
+        [
+            "AV64",
+            "1 Year",
+            76331.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            267432.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.56
+        ],
+        [
+            "AV52 VCF BYOL",
+            "hourly",
+            20.217274
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            189032.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.68
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            52939.0
+        ]
+    ],
+    "AE North<br>uaenorth": [
+        [
+            "AV64",
+            "5 Years",
+            278951.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            116357.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            120331.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            63948.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            260302.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.85737
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            55251.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            156181.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            10.13311
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            200551.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            120901.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            62385.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            89897.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            201502.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            16.01
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            46431.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            14.22
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            193928.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            74145.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            149828.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            167371.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            11.14
+        ],
+        [
+            "AV64",
+            "1 Year",
+            79619.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.5149
+        ]
+    ],
+    "US Gov AZ<br>usgovarizona": [
+        [
+            "AV36P",
+            "hourly",
+            11.5
+        ],
+        [
+            "AV48",
+            "5 Years",
+            335892.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            199939.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            166255.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            119964.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            48226.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            57046.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93504.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            64782.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            76542.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.995035
+        ],
+        [
+            "AV48",
+            "hourly",
+            15.3375
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            10.49311
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            277092.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            201535.0
+        ]
+    ],
+    "AP Southeast<br>southeastasia": [
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            14.798
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            59656.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            192404.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            126542.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            43625.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            289303.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            52803.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            210903.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            10.02291
+        ],
+        [
+            "AV64",
+            "1 Year",
+            82548.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            88983.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            173582.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            115443.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            10.02
+        ],
+        [
+            "AV64",
+            "hourly",
+            16.588
+        ],
+        [
+            "AV36P",
+            "hourly",
+            11.0298
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            66868.0
+        ]
+    ],
+    "US West 3<br>westus3": [
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            11.43
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            119968.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            50108.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            65788.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93507.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            8.19311
+        ],
+        [
+            "AV64",
+            "3 Years",
+            172922.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            288204.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            199947.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            209804.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            13.22
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            36817.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            125882.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            45637.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            9.2
+        ]
+    ],
+    "US East 2<br>eastus2": [
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            50073.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            45693.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            10.927534
+        ],
+        [
+            "AV64",
+            "hourly",
+            13.22
+        ],
+        [
+            "AV64",
+            "3 Years",
+            172779.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            268713.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            11.43
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            36873.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            120362.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            287965.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            209913.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "1 Year",
+            81938.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            49473.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "hourly",
+            16.685604
+        ],
+        [
+            "AV52 VCF BYOL",
+            "3 Years",
+            218534.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            8.19311
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            200603.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            12.27
+        ],
+        [
+            "AV36P",
+            "hourly",
+            9.2
+        ],
+        [
+            "AV52",
+            "hourly",
+            18.14
+        ],
+        [
+            "AV48",
+            "1 Year",
+            61233.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            65753.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            125738.0
+        ],
+        [
+            "AV52",
+            "3 Years",
+            256756.0
+        ],
+        [
+            "AV52",
+            "1 Year",
+            94679.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93901.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            161228.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            125948.0
+        ]
+    ],
+    "US West 2<br>westus2": [
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            50073.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            45623.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            13.22
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            209914.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            120100.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            36803.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            11.43
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            10.93
+        ],
+        [
+            "AV64",
+            "5 Years",
+            287965.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            200167.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            49473.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            8.19311
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            125867.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            161229.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            12.27
+        ],
+        [
+            "AV36P",
+            "hourly",
+            9.2
+        ],
+        [
+            "AV36",
+            "1 Year",
+            36354.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            61233.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93639.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            65753.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            8.36
+        ],
+        [
+            "AV64",
+            "3 Years",
+            172908.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            268714.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            125948.0
+        ]
+    ],
+    "SE Central<br>swedencentral": [
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            7.73311
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            34700.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            38281.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            11.4937
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            65416.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            12.031
+        ],
+        [
+            "AV64",
+            "1 Year",
+            68973.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            12.83617
+        ],
+        [
+            "AV48",
+            "5 Years",
+            224890.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            134934.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            52298.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            13.82091
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            99654.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            145552.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            166090.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            242586.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            53293.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            64058.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            98512.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            164186.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            8.74
+        ]
+    ],
+    "AU East<br>australiaeast": [
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            45913.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            14.07
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            118828.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.86
+        ],
+        [
+            "AV36",
+            "1 Year",
+            43625.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            88752.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            63224.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            10.01311
+        ],
+        [
+            "AV64",
+            "3 Years",
+            165868.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            115212.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            10.02
+        ],
+        [
+            "AV36P",
+            "hourly",
+            11.02
+        ],
+        [
+            "AV64",
+            "1 Year",
+            78904.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            192019.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            54733.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            276447.0
+        ]
+    ],
+    "ZA North<br>southafricanorth": [
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            68463.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            10.95
+        ],
+        [
+            "AV48",
+            "hourly",
+            16.07537
+        ],
+        [
+            "AV64",
+            "3 Years",
+            181047.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            223344.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            14.73291
+        ],
+        [
+            "AV48",
+            "1 Year",
+            80223.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            17.32
+        ],
+        [
+            "AV48",
+            "3 Years",
+            168985.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            45563.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            15.53
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            133705.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            134007.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            99348.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            11.0382
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            9.94311
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            51019.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            86124.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            70518.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            281641.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            47654.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            87911.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            165579.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            222841.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            301744.0
+        ]
+    ],
+    "KR Central<br>koreacentral": [
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.05147
+        ],
+        [
+            "AV64",
+            "hourly",
+            16.2327
+        ],
+        [
+            "AV64",
+            "1 Year",
+            80780.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            65100.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            283106.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            151310.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            204706.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.39394
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            116030.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            169864.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            60072.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            71832.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            14.4427
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            193382.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            252182.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            122824.0
+        ]
+    ],
+    "US South Central<br>southcentralus": [
+        [
+            "AV36",
+            "hourly",
+            10.0266
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            14.07
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            160294.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            78904.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            45913.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            117553.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            43601.0
+        ],
+        [
+            "AV52",
+            "hourly",
+            21.77
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            63224.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "1 Year",
+            100957.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            207335.0
+        ],
+        [
+            "AV52 VCF BYOL",
+            "3 Years",
+            270200.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            240023.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            10.03311
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            144014.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            345558.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.86
+        ],
+        [
+            "AV36P",
+            "hourly",
+            11.04
+        ],
+        [
+            "AV52 VCF BYOL",
+            "hourly",
+            20.315604
+        ],
+        [
+            "AV52",
+            "1 Year",
+            113698.0
+        ],
+        [
+            "AV52",
+            "3 Years",
+            308422.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            54733.0
+        ]
+    ],
+    "FR Central<br>francecentral": [
+        [
+            "AV48",
+            "5 Years",
+            249423.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            190623.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            267299.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            160380.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            59395.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            9.7
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.34
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            74876.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            188899.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            71155.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            113340.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            149654.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            114374.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            12.893925
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            39396.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            8.69311
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.23639
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            60620.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.55
+        ],
+        [
+            "AV36",
+            "1 Year",
+            42223.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            76293.0
+        ]
+    ],
+    "CH West<br>switzerlandwest": [
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            16.09311
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            106555.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            297664.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            122235.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            24.58
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            152139.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            256957.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            428262.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            22.79
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            178599.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            17.1
+        ],
+        [
+            "AV36",
+            "1 Year",
+            67582.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            253564.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            209917.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            15.54
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            75986.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            84806.0
+        ]
+    ],
+    "BR South<br>brazilsouth": [
+        [
+            "AV64",
+            "hourly",
+            21.11089
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            112299.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            130169.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            261048.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            105181.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            19.3208
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            64221.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            216948.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            14.976
+        ],
+        [
+            "AV64",
+            "5 Years",
+            366375.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            89501.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            13.35
+        ],
+        [
+            "AV64",
+            "3 Years",
+            219825.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            12.34311
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            57546.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            13.6782
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            74723.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            287975.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            156629.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            172785.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            57816.0
+        ]
+    ],
+    "UK West<br>ukwest": [
+        [
+            "AV64",
+            "1 Year",
+            79603.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            14.2062
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.9962
+        ],
+        [
+            "AV36",
+            "1 Year",
+            43964.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            63923.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            278982.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            200582.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            10.1101
+        ],
+        [
+            "AV64",
+            "3 Years",
+            167389.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            120349.0
+        ]
+    ],
+    "JA East<br>japaneast": [
+        [
+            "AV36",
+            "hourly",
+            9.81
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.791
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.0557
+        ],
+        [
+            "AV36",
+            "1 Year",
+            42662.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            44467.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            61620.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            186939.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            270554.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            151354.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.5123
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            116074.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            112164.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            252256.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            162332.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            60093.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            142839.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            193456.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            85704.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.39817
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            115292.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            71853.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            53287.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.7223
+        ],
+        [
+            "AV64",
+            "1 Year",
+            77300.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.7842
+        ]
+    ],
+    "CH North<br>switzerlandnorth": [
+        [
+            "AV36",
+            "1 Year",
+            51991.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            197660.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            13.145
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            229144.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            56474.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            65294.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            150620.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            11.95
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            78347.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            111027.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            17.11
+        ],
+        [
+            "AV64",
+            "hourly",
+            18.9
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            137487.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            12.13811
+        ],
+        [
+            "AV64",
+            "5 Years",
+            329432.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            94027.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            185044.0
+        ]
+    ],
+    "US Central<br>centralus": [
+        [
+            "AV36P",
+            "1 Year",
+            45623.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            50073.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            8.43511
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.38911
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            32668.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            172779.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            14.94
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            36803.0
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            120100.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            82601.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            287965.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.15
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            200167.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.396
+        ],
+        [
+            "AV36",
+            "1 Year",
+            36354.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            93639.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            65753.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            125738.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            9.442
+        ]
+    ],
+    "JA West<br>japanwest": [
+        [
+            "AV36",
+            "hourly",
+            9.81
+        ],
+        [
+            "AV36 VCF BYOL",
+            "hourly",
+            8.80311
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            193485.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            61620.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            270554.0
+        ],
+        [
+            "AV48",
+            "3 Years",
+            151354.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            15.5123
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            116074.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            252256.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            162332.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            60093.0
+        ],
+        [
+            "AV36 VCF BYOL",
+            "3 Years",
+            75507.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.39817
+        ],
+        [
+            "AV36",
+            "1 Year",
+            42486.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            115292.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            71853.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.056
+        ],
+        [
+            "AV36 VCF BYOL",
+            "1 Year",
+            39536.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.7223
+        ],
+        [
+            "AV64",
+            "1 Year",
+            77300.0
+        ]
+    ],
+    "US West Central<br>westcentralus": [
+        [
+            "AV48",
+            "1 Year",
+            73480.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.381534
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.724
+        ],
+        [
+            "AV48",
+            "3 Years",
+            193475.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            263657.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            158195.0
+        ],
+        [
+            "AV48",
+            "5 Years",
+            322457.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            61720.0
+        ]
+    ],
+    "US West<br>westus": [
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            41541.0
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            50361.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.13311
+        ],
+        [
+            "AV64",
+            "hourly",
+            14.57
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            132660.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.14
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            143490.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            190433.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            106199.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            221100.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            12.78
+        ],
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            239150.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            72472.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            317388.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            56853.0
+        ]
+    ],
+    "IN Central<br>centralindia": [
+        [
+            "AV64",
+            "5 Years",
+            262278.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            13.2
+        ],
+        [
+            "AV48",
+            "3 Years",
+            146367.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            12.58132
+        ],
+        [
+            "AV36P",
+            "1 Year",
+            51810.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            111087.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            110327.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            14.99
+        ],
+        [
+            "AV36P VCF BYOL",
+            "1 Year",
+            42990.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            57726.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            74565.0
+        ],
+        [
+            "AV36P",
+            "hourly",
+            10.43177
+        ],
+        [
+            "AV36P",
+            "3 Years",
+            109183.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            13.92378
+        ],
+        [
+            "AV48",
+            "5 Years",
+            243945.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            69486.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            58885.0
+        ],
+        [
+            "AV36P",
+            "5 Years",
+            181971.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "3 Years",
+            82723.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            185145.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            157367.0
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            9.42488
+        ],
+        [
+            "AV36P VCF BYOL",
+            "5 Years",
+            137871.0
+        ]
+    ],
+    "CL Central<br>chilecentral": [
+        [
+            "AV64",
+            "hourly",
+            18.508
+        ],
+        [
+            "AV36P VCF BYOL",
+            "hourly",
+            11.470354
+        ],
+        [
+            "AV36P",
+            "hourly",
+            12.88
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            16.002
+        ]
+    ],
+    "EU North<br>northeurope": [
+        [
+            "AV64",
+            "hourly",
+            14.58
+        ],
+        [
+            "AV64",
+            "3 Years",
+            152443.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            254071.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            12.79
+        ],
+        [
+            "AV64",
+            "1 Year",
+            72517.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            56837.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            105403.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            9.22
+        ],
+        [
+            "AV36",
+            "1 Year",
+            40121.0
+        ]
+    ],
+    "CA East<br>canadaeast": [
+        [
+            "AV64 VCF BYOL",
+            "5 Years",
+            175640.0
+        ],
+        [
+            "AV64",
+            "3 Years",
+            152424.0
+        ],
+        [
+            "AV64",
+            "hourly",
+            14.57
+        ],
+        [
+            "AV36",
+            "hourly",
+            9.2123
+        ],
+        [
+            "AV64 VCF BYOL",
+            "hourly",
+            12.78
+        ],
+        [
+            "AV64 VCF BYOL",
+            "3 Years",
+            105384.0
+        ],
+        [
+            "AV36",
+            "1 Year",
+            40061.0
+        ],
+        [
+            "AV64",
+            "1 Year",
+            72533.0
+        ],
+        [
+            "AV64 VCF BYOL",
+            "1 Year",
+            56853.0
+        ],
+        [
+            "AV64",
+            "5 Years",
+            254040.0
+        ]
+    ],
+    "ES Central<br>spaincentral": [
+        [
+            "AV48 VCF BYOL",
+            "3 Years",
+            118378.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "5 Years",
+            197295.0
+        ],
+        [
+            "AV48",
+            "hourly",
+            14.617251
+        ],
+        [
+            "AV48",
+            "5 Years",
+            256095.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "1 Year",
+            61187.0
+        ],
+        [
+            "AV48",
+            "1 Year",
+            72947.0
+        ],
+        [
+            "AV48 VCF BYOL",
+            "hourly",
+            13.274786
+        ],
+        [
+            "AV48",
+            "3 Years",
+            153658.0
+        ]
+    ],
+    "AU Southeast<br>australiasoutheast": [
+        [
+            "AV36",
+            "1 Year",
+            47233.0
+        ],
+        [
+            "AV36",
+            "hourly",
+            10.8616
+        ]
+    ],
+    "MX Central<br>mexicocentral": [
+        [
+            "AV36P",
+            "hourly",
+            10.12
+        ],
+        [
+            "AV64",
+            "hourly",
+            14.542
+        ]
+    ]
+}
