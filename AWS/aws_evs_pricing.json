@@ -1,0 +1,44 @@
+[
+  {
+    "Location": "Asia Pacific (Tokyo)",
+    "InstanceType": "i4i.metal",
+    "SubscriptionModel": "Bring your own VCF subscription",
+    "RegionCode": "ap-northeast-1",
+    "PricePerUnit": "1.0800000000"
+  },
+  {
+    "Location": "US West (Oregon)",
+    "InstanceType": "i4i.metal",
+    "SubscriptionModel": "Bring your own VCF subscription",
+    "RegionCode": "us-west-2",
+    "PricePerUnit": "0.9200000000"
+  },
+  {
+    "Location": "US East (Ohio)",
+    "InstanceType": "i4i.metal",
+    "SubscriptionModel": "Bring your own VCF subscription",
+    "RegionCode": "us-east-2",
+    "PricePerUnit": "0.9200000000"
+  },
+  {
+    "Location": "EU (Frankfurt)",
+    "InstanceType": "i4i.metal",
+    "SubscriptionModel": "Bring your own VCF subscription",
+    "RegionCode": "eu-central-1",
+    "PricePerUnit": "1.1000000000"
+  },
+  {
+    "Location": "EU (Ireland)",
+    "InstanceType": "i4i.metal",
+    "SubscriptionModel": "Bring your own VCF subscription",
+    "RegionCode": "eu-west-1",
+    "PricePerUnit": "1.0100000000"
+  },
+  {
+    "Location": "US East (N. Virginia)",
+    "InstanceType": "i4i.metal",
+    "SubscriptionModel": "Bring your own VCF subscription",
+    "RegionCode": "us-east-1",
+    "PricePerUnit": "0.9200000000"
+  }
+]

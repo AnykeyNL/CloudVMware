@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS EVS Pricing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #ff9900;
+        }
+        h2 {
+            text-align: center;
+            color: #666;
+            margin-top: -10px;
+        }
+        table {
+            width: 90%;
+            border-collapse: collapse;
+            margin: 20px auto;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+            vertical-align: top;
+        }
+        th {
+            background-color: #ff9900;
+            color: white;
+        }
+        .region-code {
+            font-size: 0.8em;
+            color: #666;
+            font-style: italic;
+        }
+        .price {
+            font-weight: bold;
+            color: #ff9900;
+        }
+        .subscription-model {
+            font-size: 0.9em;
+            color: #555;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f0f0f0;
+        }
+        .navigation {
+            text-align: center;
+            margin: 20px 0;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        .navigation h3 {
+            color: #333;
+            margin: 0 0 15px 0;
+            font-size: 1.2em;
+        }
+        .navigation a {
+            color: #ff9900;
+            text-decoration: none;
+            padding: 5px 10px;
+            margin: 0 5px;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+        .navigation a:hover {
+            background-color: #ff9900;
+            color: white;
+        }
+        .nav-section {
+            margin: 10px 0;
+        }
+        .nav-section strong {
+            color: #333;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>AWS Elastic VMware Service (EVS)</h1>
+    <h2>Pricing per Node per Month</h2>
+    
+    <div class="navigation">
+        <h3>Navigation</h3>
+        <div class="nav-section">
+            <strong>AWS:</strong> 
+            <a href="aws_evs_pricing.html">EVS Pricing</a>
+        </div>
+        <div class="nav-section">
+            <strong>Azure:</strong> 
+            <a href="../Azure/index.html">AVS (USD)</a> | 
+            <a href="../Azure/index_EUR.html">AVS (EUR)</a> | 
+            <a href="../Azure/index_GBP.html">AVS (GBP)</a>
+        </div>
+    </div>
+    
+    <table>
+        <tr>
+            <th>Location</th>
+            <th>Region Code</th>
+            <th>Instance Type</th>
+            <th>Subscription Model</th>
+            <th>Price per Month (USD)</th>
+        </tr>
+        
+        <tr>
+            <td>Asia Pacific (Tokyo)</td>
+            <td class="region-code">ap-northeast-1</td>
+            <td>i4i.metal</td>
+            <td class="subscription-model">Bring your own VCF subscription</td>
+            <td class="price">$788.40</td>
+        </tr>
+    
+        <tr>
+            <td>US West (Oregon)</td>
+            <td class="region-code">us-west-2</td>
+            <td>i4i.metal</td>
+            <td class="subscription-model">Bring your own VCF subscription</td>
+            <td class="price">$671.60</td>
+        </tr>
+    
+        <tr>
+            <td>US East (Ohio)</td>
+            <td class="region-code">us-east-2</td>
+            <td>i4i.metal</td>
+            <td class="subscription-model">Bring your own VCF subscription</td>
+            <td class="price">$671.60</td>
+        </tr>
+    
+        <tr>
+            <td>EU (Frankfurt)</td>
+            <td class="region-code">eu-central-1</td>
+            <td>i4i.metal</td>
+            <td class="subscription-model">Bring your own VCF subscription</td>
+            <td class="price">$803.00</td>
+        </tr>
+    
+        <tr>
+            <td>EU (Ireland)</td>
+            <td class="region-code">eu-west-1</td>
+            <td>i4i.metal</td>
+            <td class="subscription-model">Bring your own VCF subscription</td>
+            <td class="price">$737.30</td>
+        </tr>
+    
+        <tr>
+            <td>US East (N. Virginia)</td>
+            <td class="region-code">us-east-1</td>
+            <td>i4i.metal</td>
+            <td class="subscription-model">Bring your own VCF subscription</td>
+            <td class="price">$671.60</td>
+        </tr>
+    
+    </table>
+</body>
+</html>
